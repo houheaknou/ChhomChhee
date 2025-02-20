@@ -21,11 +21,8 @@ export default function Layout({ children }: { children: ReactNode }) {
             </div>
           </div>
         </header>
-        <div>
-          {children}
-        </div>
         <main className="main">
-        
+          {children}
           
         </main>
         <Footer />
