@@ -12,7 +12,7 @@ export default function Home() {
             <p className="lead">Transforming ideas into elegant solutions through creative design and innovative development</p>
             <div className="cta-buttons" data-aos="fade-up" data-aos-delay="300">
               <a href="#portfolio" className="btn btn-primary">View My Work</a>
-              <a href="#contact" className="btn btn-outline">Let's Connect</a>
+              <a href="#contact" className="btn btn-outline">Lets Connect</a>
             </div>
             <div className="hero-stats" data-aos="fade-up" data-aos-delay="400">
               <div className="stat-item">
@@ -37,9 +37,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-
       </div>
-
       </section>
     </div>
   );
