@@ -12,7 +12,7 @@ const AboutSection = () => {
                 <div className="row">
                     <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                         <div className="img-thumb wow fadeInLeft" data-wow-delay="0.3s">
-                            <Image className="img-fluid" src="/images/about/about-1.jpg" alt="" width={700} height={120} priority/>
+                            <Image className="img-fluid" src="/images/about/bong.jpg" alt="" width={700} height={120} priority/>
                         </div>
                     </div>
                     <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
